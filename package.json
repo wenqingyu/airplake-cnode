@@ -1,0 +1,22 @@
+{
+  "name": "airplake-cnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenqingyu/airplake-cnode.git"
+  },
+  "author": "Wenqing Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqingyu/airplake-cnode/issues"
+  },
+  "homepage": "https://github.com/wenqingyu/airplake-cnode#readme",
+  "dependencies": {
+    "async-request": "^1.2.0"
+  }
+}
